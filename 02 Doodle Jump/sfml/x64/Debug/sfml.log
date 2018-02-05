@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\rak22\desktop\ccc\02 doodle jump\main.cpp(10): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\rak22\desktop\ccc\02 doodle jump\main.cpp(45): warning C4305: +=: усечение из "double" в "float"
+c:\users\rak22\desktop\ccc\02 doodle jump\main.cpp(46): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+c:\users\rak22\desktop\ccc\02 doodle jump\main.cpp(53): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\rak22\desktop\ccc\02 doodle jump\main.cpp(61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\rak22\desktop\ccc\02 doodle jump\main.cpp(67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  sfml.vcxproj -> C:\Users\rak22\Desktop\CCC\02 Doodle Jump\x64\Debug\sfml.exe
